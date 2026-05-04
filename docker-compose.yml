@@ -1,0 +1,8 @@
+services:
+  library-frontend:
+    build:
+      context: .
+    image: library-spring-frontend:local
+    ports:
+      - "5500:80"
+    restart: unless-stopped

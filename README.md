@@ -1,4 +1,4 @@
-# Library Spring Frontend
+# library-management
 
 Link do backendu: [https://github.com/macieserafin/library-management-api](https://github.com/macieserafin/library-management-api)
 

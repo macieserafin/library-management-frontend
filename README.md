@@ -1,6 +1,6 @@
 # Library Spring Frontend
 
-Link do backendu: [https://github.com/macieserafin/Library_Spring](https://github.com/macieserafin/Library_Spring)
+Link do backendu: [https://github.com/macieserafin/library-management-api](https://github.com/macieserafin/library-management-api)
 
 Frontend testowy do aplikacji bibliotecznej `Library_Spring`. Projekt zostal przygotowany w czystym HTML, CSS i JavaScript, bez frameworkow frontendowych. Jego zadaniem jest, reczne testowanie endpointow REST udostepnianych przez backend Spring Boot.
 
